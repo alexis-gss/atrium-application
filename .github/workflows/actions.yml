@@ -1,0 +1,14 @@
+name: Github actions
+
+on:
+  push:
+    branches:
+      - "**"
+  pull_request:
+    types:
+      - opened
+
+jobs:
+  validation-android:
+    name: Validation android
+    uses: alexis-gss/github-workflows/.github/workflows/validation-android.yml@master

@@ -1,15 +1,17 @@
 <div align="center">
 
-[![Banner of the github account](./assets/images/github-visual.png)](https://doc-github-project-template.alexis-gousseau.com)
+[![Banner of the github account](./assets/images/github-visual.jpg)](https://atrium.alexis-gousseau.com/)
 
-[![GitHub latest commit](https://img.shields.io/github/last-commit/alexis-gss/github-project-template/develop?color=FFFFFF&style=for-the-badge)](https://github.com/alexis-gss/github-project-template/commit/master)
-[![GitHub tag](https://img.shields.io/github/tag/alexis-gss/github-project-template?style=for-the-badge&color=FFFFFF)](https://github.com/alexis-gss/github-project-template/tags)
-[![GitHub License](https://img.shields.io/github/license/alexis-gss/github-project-template?color=FFFFFF&style=for-the-badge)](https://github.com/alexis-gss/github-project-template/blob/master/LICENSE)
+[![Website test](https://img.shields.io/website-up-down-green-red/https/atrium.alexis-gousseau.com?style=for-the-badge)](https://atrium.alexis-gousseau.com)
+[![GitHub latest commit](https://img.shields.io/github/last-commit/alexis-gss/atrium-application/develop?color=4FC3F7&style=for-the-badge)](https://github.com/alexis-gss/atrium-application/commit/master)
+[![GitHub tag](https://img.shields.io/github/tag/alexis-gss/atrium-application?style=for-the-badge&color=4FC3F7)](https://github.com/alexis-gss/atrium-application/tags)
 
 </div>
 
 # Introduction
-[Github Project Template](https://doc-github-project-template.alexis-gousseau.com) is a template dedicated to start a new project in Github.
+[Atrium](http://atrium.alexis-gousseau.com/) is a minimal, remote-friendly home screen launcher for Android TV and Google TV.
+
+Pin your favorite apps, jump to HDMI inputs, and customize the wallpaper with a color, an image link or a fade-in slideshow, all from a slide-in options panel.
 
 # Table of contents
 
@@ -25,20 +27,19 @@
 - [Copyright and License](#copyright-and-license)
 
 # Frameworks, Platforms and Libraries
-<!-- https://ileriayo.github.io/markdown-badges/ -->
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)](https://gradle.org/)
 
 # Documentation
 
-You can find all the documentation of this package on this link : [Github Project Template documentation](https://doc-github-project-template.alexis-gousseau.com).
+You can find all the documentation of this project on this link : [Atrium documentation](https://doc-atrium.alexis-gousseau.com).
 
 # Contributing
 
 ### Create a task
 
-You can create a [new issue](https://github.com/alexis-gss/github-project-template/issues/new/choose) with a specific templates : bug or feature.
-
-Once your code is working, please verify that your code is following the same coding standards.
+You can create a [new issue](https://github.com/alexis-gss/atrium-application/issues/new/choose) with a specific templates : bug or feature.
 
 ### Fixing a Bug
 
@@ -48,15 +49,14 @@ When fixing a bug please make sure to test it in several browsers. If you are no
 
 When implementing a feature please create an issue first explaining your idea and asking whether there's need for such a feature. Remember the script's core philosophy is to stay simple and minimal, doing one thing and doing it right.
 
-
 # Changelog
 
-Latest version [v1.1.0](https://github.com/alexis-gss/github-project-template/releases/tag/v1.1.0).
+Latest version [v1.0.0](https://github.com/alexis-gss/atrium-application/releases/tag/v1.0.0).
 
 See the [CHANGELOG.md](CHANGELOG.md) file for details.
 
 # Copyright and License
 
-[Github Project Template]((https://doc-github-project-template.alexis-gousseau.com)) was written by [Alexis Gousseau](https://github.com/alexis-gss).
+[Atrium](http://atrium.alexis-gousseau.com/) was written by [Alexis Gousseau](https://github.com/alexis-gss).
 
-Copyright (c) 2025 and beyond Alexis Gousseau.
+Copyright (c) 2026 and beyond Alexis Gousseau.

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Atrium</string>
+    <string name="apps_title">Applications</string>
+    <string name="apps_empty">No favorite apps yet. Open Atrium\'s options (slider icon at the top right), then Favorites, to add some.</string>
+    <string name="inputs_title">Inputs</string>
+    <string name="inputs_none">No input detected</string>
+    <string name="settings_button">Settings</string>
+    <string name="error_launch_app">Unable to open this app</string>
+    <string name="error_launch_input">Unable to open this input</string>
+    <string name="settings_label">Settings</string>
+    <string name="settings_back">Back</string>
+    <string name="settings_close">Close</string>
+    <string name="wallpaper_slideshow">Slideshow</string>
+    <string name="wallpaper_status_slideshow">Current background: slideshow - Folder: %1$s</string>
+    <string name="wallpaper_slideshow_title">Choose a slideshow folder</string>
+    <string name="wallpaper_slideshow_root">Main folder</string>
+    <string name="wallpaper_slideshow_item">%1$s (%2$d image(s))</string>
+    <string name="wallpaper_slideshow_empty">No folder with images found. Copy images into this folder, or into a sub-folder (for example with adb push):\n%1$s</string>
+    <string name="menu_favorites">Favorites</string>
+    <string name="menu_wallpaper">Wallpaper</string>
+    <string name="menu_system">TV settings</string>
+    <string name="system_settings_error">Unable to open the TV settings</string>
+    <string name="menu_about">About</string>
+    <string name="panel_settings_section">Settings</string>
+    <string name="panel_favorites_count">%1$d app(s) on the home screen</string>
+    <string name="panel_order">Favorites order</string>
+    <string name="panel_order_subtitle">Reorder the apps</string>
+    <string name="panel_background">Customize the home screen background</string>
+    <string name="panel_about">Version and author</string>
+    <string name="panel_loading">Loading apps…</string>
+    <string name="favorites_hint">Check the apps to show on the home screen (OK to check or uncheck).</string>
+    <string name="order_hint">Press OK on an app to move it, then use the up/down arrows.</string>
+    <string name="order_hint_moving">Moving: up/down arrows, then OK or Back to confirm.</string>
+    <string name="order_empty">No app selected: check some in Favorites first.</string>
+    <string name="wallpaper_default">Default</string>
+    <string name="wallpaper_color">Solid color</string>
+    <string name="wallpaper_url">Image from a link</string>
+    <string name="wallpaper_local_folder">Local image</string>
+    <string name="wallpaper_status_default">Current background: default gradient</string>
+    <string name="wallpaper_status_color">Current background: color %1$s</string>
+    <string name="wallpaper_status_url">Current background: image from a link\n%1$s</string>
+    <string name="wallpaper_status_local">Current background: local image</string>
+    <string name="wallpaper_checking">Checking and downloading the image…</string>
+    <string name="wallpaper_applied">Wallpaper applied</string>
+    <string name="wallpaper_url_title">Image link (http or https)</string>
+    <string name="wallpaper_color_title">Choose a color</string>
+    <string name="wallpaper_color_hex">Hex code…</string>
+    <string name="wallpaper_hex_title">Color code (e.g. #1B2A41)</string>
+    <string name="wallpaper_folder_title">Choose an image</string>
+    <string name="wallpaper_folder_empty">No image found. Copy one into this folder (for example with adb push):\n%1$s</string>
+    <string name="wallpaper_ok">OK</string>
+    <string name="wallpaper_cancel">Cancel</string>
+    <string name="wallpaper_err_url">Invalid link: it must start with http:// or https://</string>
+    <string name="wallpaper_err_network">Unable to reach the link (no connection or server unreachable)</string>
+    <string name="wallpaper_err_http">The server refused the request or can\'t find the image</string>
+    <string name="wallpaper_err_not_image">This link doesn\'t point to a valid image (JPG, PNG, WebP, BMP, GIF)</string>
+    <string name="wallpaper_err_too_big">Image too large (20 MB maximum)</string>
+    <string name="wallpaper_err_read">Unable to read this file</string>
+    <string name="wallpaper_err_color">Invalid color code</string>
+    <string-array name="wallpaper_color_names">
+        <item>Midnight blue</item>
+        <item>Black</item>
+        <item>Charcoal gray</item>
+        <item>Blue</item>
+        <item>Purple</item>
+        <item>Dark green</item>
+        <item>Dark red</item>
+    </string-array>
+    <string name="about_name_label">App name</string>
+    <string name="about_author_label">Author</string>
+    <string name="about_author_value" translatable="false">Alexis Gousseau</string>
+    <string name="about_version_label">Version</string>
+    <string name="about_build_date_label">Build date</string>
+    <string name="accessibility_description">Brings Atrium back when the TV\'s original home screen appears.</string>
+</resources>

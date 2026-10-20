@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="home_gradient_height">240dp</dimen>
+    <dimen name="panel_width">340dp</dimen>
+    <dimen name="panel_margin">16dp</dimen>
+    <dimen name="panel_radius">24dp</dimen>
+</resources>

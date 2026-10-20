@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apps_title">Applications</string>
+    <string name="apps_empty">Aucune application favorite. Ouvrez les options d\'Atrium (icône à curseurs en haut à droite), section Favoris, pour en ajouter.</string>
+    <string name="inputs_title">Entrées</string>
+    <string name="inputs_none">Aucune entrée détectée</string>
+    <string name="settings_button">Paramètres</string>
+    <string name="error_launch_app">Impossible d\'ouvrir cette application</string>
+    <string name="error_launch_input">Impossible d\'ouvrir cette entrée</string>
+    <string name="settings_label">Paramètres</string>
+    <string name="settings_back">Retour</string>
+    <string name="settings_close">Fermer</string>
+    <string name="wallpaper_slideshow">Diaporama</string>
+    <string name="wallpaper_status_slideshow">Fond actuel : diaporama - Dossier : %1$s</string>
+    <string name="wallpaper_slideshow_title">Choisir un dossier de diaporama</string>
+    <string name="wallpaper_slideshow_root">Dossier principal</string>
+    <string name="wallpaper_slideshow_item">%1$s (%2$d image(s))</string>
+    <string name="wallpaper_slideshow_empty">Aucun dossier contenant des images. Copiez des images dans ce dossier, ou dans un sous-dossier (par exemple avec adb push) :\n%1$s</string>
+    <string name="menu_favorites">Favoris</string>
+    <string name="menu_wallpaper">Fond d\'écran</string>
+    <string name="menu_system">Paramètres de la télé</string>
+    <string name="system_settings_error">Impossible d\'ouvrir les paramètres de la télé</string>
+    <string name="menu_about">À propos</string>
+    <string name="panel_settings_section">Paramètres</string>
+    <string name="panel_favorites_count">%1$d application(s) sur l\'accueil</string>
+    <string name="panel_order">Ordre des favoris</string>
+    <string name="panel_order_subtitle">Réorganiser les applications</string>
+    <string name="panel_background">Personnaliser l\'arrière-plan de l\'accueil</string>
+    <string name="panel_about">Version et auteur</string>
+    <string name="panel_loading">Chargement des applications…</string>
+    <string name="favorites_hint">Cochez les applications à afficher sur l\'accueil (OK pour cocher ou décocher).</string>
+    <string name="order_hint">OK sur une application pour la déplacer, puis flèches haut/bas.</string>
+    <string name="order_hint_moving">Déplacement en cours : flèches haut/bas, OK ou Retour pour valider.</string>
+    <string name="order_empty">Aucune application sélectionnée : cochez-en d\'abord dans Favoris.</string>
+    <string name="wallpaper_default">Par défaut</string>
+    <string name="wallpaper_color">Couleur unie</string>
+    <string name="wallpaper_url">Image depuis un lien</string>
+    <string name="wallpaper_local_folder">Image locale</string>
+    <string name="wallpaper_status_default">Fond actuel : dégradé par défaut</string>
+    <string name="wallpaper_status_color">Fond actuel : couleur %1$s</string>
+    <string name="wallpaper_status_url">Fond actuel : image depuis un lien\n%1$s</string>
+    <string name="wallpaper_status_local">Fond actuel : image locale</string>
+    <string name="wallpaper_checking">Vérification et téléchargement de l\'image…</string>
+    <string name="wallpaper_applied">Fond d\'écran appliqué</string>
+    <string name="wallpaper_url_title">Lien de l\'image (http ou https)</string>
+    <string name="wallpaper_color_title">Choisir une couleur</string>
+    <string name="wallpaper_color_hex">Code hexadécimal…</string>
+    <string name="wallpaper_hex_title">Code couleur (ex. #1B2A41)</string>
+    <string name="wallpaper_folder_title">Choisir une image</string>
+    <string name="wallpaper_folder_empty">Aucune image trouvée. Copiez-en une dans ce dossier (par exemple avec adb push) :\n%1$s</string>
+    <string name="wallpaper_ok">OK</string>
+    <string name="wallpaper_cancel">Annuler</string>
+    <string name="wallpaper_err_url">Lien invalide : il doit commencer par http:// ou https://</string>
+    <string name="wallpaper_err_network">Impossible de joindre le lien (pas de connexion ou serveur injoignable)</string>
+    <string name="wallpaper_err_http">Le serveur a refusé ou ne trouve pas l\'image</string>
+    <string name="wallpaper_err_not_image">Ce lien ne pointe pas vers une image valide (JPG, PNG, WebP, BMP, GIF)</string>
+    <string name="wallpaper_err_too_big">Image trop volumineuse (20 Mo maximum)</string>
+    <string name="wallpaper_err_read">Impossible de lire ce fichier</string>
+    <string name="wallpaper_err_color">Code couleur invalide</string>
+    <string-array name="wallpaper_color_names">
+        <item>Bleu nuit</item>
+        <item>Noir</item>
+        <item>Gris anthracite</item>
+        <item>Bleu</item>
+        <item>Violet</item>
+        <item>Vert foncé</item>
+        <item>Rouge foncé</item>
+    </string-array>
+    <string name="about_name_label">Nom de l\'application</string>
+    <string name="about_author_label">Auteur</string>
+    <string name="about_version_label">Version</string>
+    <string name="about_build_date_label">Date de la version</string>
+    <string name="accessibility_description">Ramène Atrium quand l\'accueil d\'origine de la télé s\'affiche.</string>
+</resources>
