@@ -1,0 +1,24 @@
+{
+  "name": "alexis-gss/github-project-template",
+  "version": "1.1.0",
+  "description": "Mutualisation of Github actions used in many of my projects.",
+  "homepage": "https://doc-github-project-template.alexis-gousseau.com",
+  "authors": [
+    {
+      "name": "Alexis Gousseau",
+      "homepage": "https://alexis-gousseau.com",
+      "role": "Developer"
+    }
+  ],
+  "keywords": [
+    "alexis-gss",
+    "github",
+    "template"
+  ],
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@alexis-gss/husky-config": "^1.0.2"
+  }
+}
